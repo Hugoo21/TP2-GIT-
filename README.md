@@ -32,6 +32,8 @@ On éxécute les mêmes commandes que dans la question 6.
 
 ### Question 9 -
 On revient sur la branche _correction_ avec `git checkout correction`. 
+Il n'y pas la 4ème ligne dans le fichier car celle-ci a été ajoutée dans la branche _main_ : 
+<img width="1763" height="322" alt="image" src="https://github.com/user-attachments/assets/41e70e54-cbd7-41e3-8d39-d08a6987fbd4" />
 
 
 
