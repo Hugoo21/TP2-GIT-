@@ -16,5 +16,8 @@ Nous avons choisi de créer une troisième branche _develop_ en plus.
 Nous sommes donc sur la branche _develop_. On passe sur la branche _correction_ avec `git checkout correction`.
 <img width="615" height="72" alt="image" src="https://github.com/user-attachments/assets/8692390b-a8fb-41c8-8253-8dea26d02539" />
 
+### Question 5 -
+Le fichier reste inchangé, nous n'avons pas encore travailler dessus.
+
 
 
