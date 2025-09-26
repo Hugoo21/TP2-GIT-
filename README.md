@@ -94,5 +94,19 @@ On utilise `cat file.txt`.
 On utilise successivement `git add file.txt`, `git commit`, `git push`.
 
 ### Question 4.c
-<img width="724" height="211" alt="image" src="https://github.com/user-attachments/assets/2df41eb0-4f02-49ae-8f44-e3737c7e4d48" />
 Elles ont été réalisées par l'utilisateur 1 Arthur Villette et l'utilisateur 2 Hugo.
+<img width="724" height="211" alt="image" src="https://github.com/user-attachments/assets/2df41eb0-4f02-49ae-8f44-e3737c7e4d48" />
+
+### Question 5.b
+Le push a déjà été réalisé dans la question précédente.
+
+### Question 6.a 
+On navigue dans le répertoire avec la commande `git cd`. 
+
+### Question 6.b
+<img width="613" height="210" alt="image" src="https://github.com/user-attachments/assets/724c5d19-2159-4282-937a-78f8a2eda539" />
+
+### Question 6.c
+Aucun fichier ne s'y trouve à cause du paramètre `-- bare` que nous avons utilisé au moment de cloner le répertoire.
+
+
