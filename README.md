@@ -19,5 +19,8 @@ Nous sommes donc sur la branche _develop_. On passe sur la branche _correction_ 
 ### Question 5 -
 Le fichier reste inchangé, nous n'avons pas encore travailler dessus.
 
+### Question 6 -
+On ajoute le fichier au commit après modification avec `git add lignes.txt`. Puis on commit et push avec respectivement `git commit` et `git push`.
+
 
 
