@@ -62,3 +62,5 @@ Une fois crée, on ajoute le fichier avec `git add file.txt`, puis on commit ave
 Après utilisation de `git log`, on observe ceci dans la console : 
 <img width="585" height="108" alt="image" src="https://github.com/user-attachments/assets/2d9569ec-574c-442c-acf7-767d5f40e54e" />
 
+### Question 2.a -
+On utilise `cd ..` pour remonter dans l'arborescence. 
