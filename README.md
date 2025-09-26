@@ -75,4 +75,20 @@ Le dernier point indique que l'on va cloner dans le répertoire courant, et le p
 ### Question 3.a -
 On utilise `cd ..`.
 
+### Question 3.b
+On crée le répertoire `mkdir repo2`, on va dedans avec `cd repo2`.
+
+### Question 3.c
+On utilise la commande `git clone ..\remote\ .` .
+
+### Question 3.d 
+On configure le répertoire avec `git config --local user.email "hugo@etu.univ-lyon1.fr"` et `git config --local user.name "Hugo" et git config --local user.email "arthur.villette@etu.univ-lyon1.fr"` et `git config --local user.name "Arthur Villette"`. 
+
+### Question 3.e
+<img width="715" height="105" alt="image" src="https://github.com/user-attachments/assets/87cc8b51-9fa4-46c8-8c15-fa45f596aaeb" />
+
+
+
+
+
 
