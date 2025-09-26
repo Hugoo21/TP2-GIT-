@@ -64,3 +64,9 @@ Après utilisation de `git log`, on observe ceci dans la console :
 
 ### Question 2.a -
 On utilise `cd ..` pour remonter dans l'arborescence. 
+
+### Question 2.b - 
+On crée un répertoire avec `mkdir remote`. On utilise la commande `git clone --bare ..\repo1\ .`
+Le dernier point indique que l'on va cloner dans le répertoire courant, et le paramètre `--bare` indique qu'on ne va crée que le dépôt git sans fichier provenant de _repo1_ .
+
+
