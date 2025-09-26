@@ -27,5 +27,9 @@ On se place sur la branche _main_ avec `git checkout main`.
 Le fichier _lignes.txt_ n'a effectivement pas été modifié : 
 <img width="1767" height="243" alt="image" src="https://github.com/user-attachments/assets/110a6ab6-1b2f-4b85-8e1a-4369ce382fd6" />
 
+### Question 8 -
+On éxécute les mêmes commandes que dans la question 6.
+
+
 
 
