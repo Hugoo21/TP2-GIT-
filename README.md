@@ -69,4 +69,10 @@ On utilise `cd ..` pour remonter dans l'arborescence.
 On crée un répertoire avec `mkdir remote`. On utilise la commande `git clone --bare ..\repo1\ .`
 Le dernier point indique que l'on va cloner dans le répertoire courant, et le paramètre `--bare` indique qu'on ne va crée que le dépôt git sans fichier provenant de _repo1_ .
 
+### Question 2.c -
+<img width="544" height="103" alt="image" src="https://github.com/user-attachments/assets/57828304-630f-408e-aa32-90ee5ffc774c" />
+
+### Question 3.a -
+On utilise `cd ..`.
+
 
