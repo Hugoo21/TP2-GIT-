@@ -22,5 +22,8 @@ Le fichier reste inchangé, nous n'avons pas encore travailler dessus.
 ### Question 6 -
 On ajoute le fichier au commit après modification avec `git add lignes.txt`. Puis on commit et push avec respectivement `git commit` et `git push`.
 
+### Question 7 -
+On se place sur la branche _main_ avec `git checkout main`. 
+
 
 
