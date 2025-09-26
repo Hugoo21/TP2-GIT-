@@ -40,10 +40,15 @@ On revient sur la branche _main_ avec `git checkout main`.
 Pour afficher le contenu du fichier, on utilise `git touch lignes.txt`.
 On utilise finalement `git merge correction -m "fusion"`.
 
+### Question 11 -
+<img width="1761" height="339" alt="image" src="https://github.com/user-attachments/assets/f9ddfa3f-29c1-4424-9003-91d1ba47cfa3" />
+
 ### Question 12 -
 On peut afficher l'historique des commits de chaque branche sur Github : 
 <img width="1584" height="866" alt="image" src="https://github.com/user-attachments/assets/b8a4e0b4-40e3-4a30-8fd6-4b2dc946053b" />
 On allant dans le menu _Insights_ puis dans _Network_ on peut trouver le graphique suivant : 
+<img width="714" height="259" alt="image" src="https://github.com/user-attachments/assets/14061fa4-143d-44d2-8dea-5b9707cd4e6f" />
+
 
 
 
