@@ -37,7 +37,7 @@ Il n'y pas la 4ème ligne dans le fichier car celle-ci a été ajoutée dans la 
 
 ### Question 10 -
 On revient sur la branche _main_ avec `git checkout main`.
-Pour afficher le contenu du fichier, on utilise `git touch lignes.txt`.
+Pour afficher le contenu du fichier, on utilise `git cat lignes.txt`.
 On utilise finalement `git merge correction -m "fusion"`.
 
 ### Question 11 -
@@ -87,8 +87,12 @@ On configure le répertoire avec `git config --local user.email "hugo@etu.univ-l
 ### Question 3.e
 <img width="715" height="105" alt="image" src="https://github.com/user-attachments/assets/87cc8b51-9fa4-46c8-8c15-fa45f596aaeb" />
 
+### Question 4.a
+On utilise `cat file.txt`.
 
+### Question 4.b
+On utilise successivement `git add file.txt`, `git commit`, `git push`.
 
-
-
-
+### Question 4.c
+<img width="724" height="211" alt="image" src="https://github.com/user-attachments/assets/2df41eb0-4f02-49ae-8f44-e3737c7e4d48" />
+Elles ont été réalisées par l'utilisateur 1 Arthur Villette et l'utilisateur 2 Hugo.
