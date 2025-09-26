@@ -57,3 +57,8 @@ On crée un répertoire _repo1_ avec `mkdir repo1`. On configure le répertoire 
 
 ### Question 1.b -
 Une fois crée, on ajoute le fichier avec `git add file.txt`, puis on commit avec `git commit -m "first commit"`. 
+
+### Question 1.c - 
+Après utilisation de `git log`, on observe ceci : 
+<img width="585" height="108" alt="image" src="https://github.com/user-attachments/assets/2d9569ec-574c-442c-acf7-767d5f40e54e" />
+
