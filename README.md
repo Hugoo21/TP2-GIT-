@@ -30,6 +30,9 @@ Le fichier _lignes.txt_ n'a effectivement pas été modifié :
 ### Question 8 -
 On éxécute les mêmes commandes que dans la question 6.
 
+### Question 9 -
+On revient sur la branche _correction_ avec `git checkout correction`. 
+
 
 
 
