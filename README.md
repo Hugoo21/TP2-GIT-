@@ -24,6 +24,8 @@ On ajoute le fichier au commit après modification avec `git add lignes.txt`. Pu
 
 ### Question 7 -
 On se place sur la branche _main_ avec `git checkout main`. 
+Le fichier _lignes.txt_ n'a effectivement pas été modifié : 
+<img width="1767" height="243" alt="image" src="https://github.com/user-attachments/assets/110a6ab6-1b2f-4b85-8e1a-4369ce382fd6" />
 
 
 
