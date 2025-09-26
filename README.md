@@ -1,5 +1,5 @@
 # TP2-GIT - Hugo Loreau & Arthur Villette
-
+## Exercice 1
 ### Question 1 - 
 On ajoute le fichier _lignes.txt_ avec la commande `git add lignes.txt`. On commit ensuite `avec git commit`, puis on push avec `git push`.
 
@@ -50,6 +50,7 @@ On allant dans le menu _Insights_ puis dans _Network_ on peut trouver le graphiq
 <img width="714" height="259" alt="image" src="https://github.com/user-attachments/assets/14061fa4-143d-44d2-8dea-5b9707cd4e6f" />
 
 
+## Exercice 2
 
 
 
