@@ -55,5 +55,5 @@ On allant dans le menu _Insights_ puis dans _Network_ on peut trouver le graphiq
 ### Question 1.a - 
 On crée un répertoire _repo1_ avec `mkdir repo1`. On configure le répertoire avec `git config --global user.email "adressemail@example.com"` et `git config --global user.name "name"`.
 
-
-
+### Question 1.b -
+Une fois crée, on ajoute le fichier avec `git add file.txt`, puis on commit avec `git commit -m "first commit"`. 
